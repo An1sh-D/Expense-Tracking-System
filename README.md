@@ -78,16 +78,6 @@ streamlit run frontend/app.py
 
 ---
 
-## Screenshots
-
-> 🌟 **Optional**: Add some images here for better engagement. For example:
-
-| ![Dashboard Screenshot](images/dashboard.png) | ![Expense Overview](images/overview.png) |
-| --------------------------------------------- | ---------------------------------------- |
-| *Dashboard Interface*                         | *Expense Summary*                        |
-
----
-
 ## Testing
 
 The `tests/` directory contains unit and integration tests for both the frontend and backend components.
